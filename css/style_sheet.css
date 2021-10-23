@@ -1,0 +1,98 @@
+#lotrTab{
+    background-color: #8b0000;
+    color: #f5e23a;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+    
+}
+#swTab{
+    background-color: #00008b;
+    color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+}
+#quizTab{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+
+}
+#introTab{
+    background-color: #000000;
+    color: #000000;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+}
+#login{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+}
+#home{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5px;
+}
+#copyR{
+    float: right;
+    margin-right: 20px;
+}
+#linkC:visited{
+    color: #ffd708;    
+}
+footer{
+    border-color: #000000;
+    border-width: 3px;
+    border-style: solid;
+}
+.main{
+    background-color: #d2b48c;
+}
+.sw{
+    background-color: #5ea6d3;
+}
+.lotr{
+    background-color: #f87474;
+}
+html{
+    position: relative;
+    min-height: 100%;
+}
+body{
+    margin: 0 0 100px;
+    padding: 25px;
+    width: 100%;
+}
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
+h2{
+    font-size: 70px;
+    text-align: center;
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    margin-bottom: 5px;
+}
